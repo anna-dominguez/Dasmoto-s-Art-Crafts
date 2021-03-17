@@ -1,0 +1,43 @@
+body {
+  font-family: Helvetica;
+}
+
+#main-title {
+  background-image: url("../images/pattern.webp");
+  color: khaki;
+  font-size: 100px;
+  text-align: center;
+  margin: 67px 0;
+}
+
+header {
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+  margin: 26.56px 0;
+}
+
+.brushes-title {
+  background-color: MediumSpringGreen;
+}
+
+.frames-title {
+  background-color: lightcoral;
+}
+
+.paint-title {
+  background-color: skyblue;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+h3 {
+  margin: 18.72px 0;
+}
+
+p {
+  margin: 16px 0;
+}
